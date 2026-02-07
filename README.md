@@ -1,6 +1,8 @@
 🧟 Project Zomboid: Manual de Campo - Edição Build 42 (Unstable)
 Este repositório contém um notebook detalhado com estratégias, otimizações técnicas e guias de sobrevivência focados na Build 42 de Project Zomboid. O conteúdo compila o conhecimento da comunidade e de sobreviventes veteranos como ShivasBR, JHO3zin e ProjectTweak.
 
+https://notebooklm.google.com/notebook/bf66244d-3fc0-4239-a1fb-22c2e9bd28ff
+
 Uma breve descrição de um dos matérias disponíveis na página compartilhada nesse link se encontra aqui. Porém, caso tenha qualquer dúvida fora dos contextos citados, muito provavelmente será possível consultar diretamente ao chat do nosso Notebook.
 
 📖 O que você encontrará
